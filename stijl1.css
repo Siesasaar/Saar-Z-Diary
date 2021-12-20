@@ -1,0 +1,14 @@
+body {
+    color: mediumvioletred;
+    background-color: rgb(253, 232, 230);
+    font-family: monospace;
+    margin-left: 2em;
+}
+
+nav {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-size: 1em;
+    padding:4em
+}
